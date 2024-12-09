@@ -26,7 +26,8 @@ This project uses Natural Language Processing (NLP) techniques to analyze stock-
 
 ### Hardware Requirements:
 - A machine with GPU support (optional but recommended for faster FinBERT predictions).
-
+- 
+link to the data used: https://www.kaggle.com/datasets/davidwallach/financial-tweets 
 ---
 
 ## Installation Instructions
