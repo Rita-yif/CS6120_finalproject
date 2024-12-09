@@ -14,7 +14,7 @@ This project uses Natural Language Processing (NLP) techniques to analyze stock-
 ## Prerequisites
 
 ### Software Requirements:
-- Python 3.7 or later
+- Python 3 or later
 - Libraries:
   - pandas
   - matplotlib
@@ -53,7 +53,7 @@ Clone this repository or download the code files.
 ### Step 1: Run the Script
 To execute the analysis, run the Python script:
 ```bash
-python sentiment_analysis.py
+python main.py
 ```
 
 ### Step 2: View the Outputs
